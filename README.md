@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://instagram.com/yasir.sahinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasir.sahinn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yasirsahin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yasirsahin1" height="30" width="40" /></a>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sorjasor" height="30" width="40" /> : sorjasor
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="s0rjasor" height="30" width="40" /> : s0rjasor
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
